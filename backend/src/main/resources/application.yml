@@ -16,3 +16,7 @@ app:
     key: ${PIX_KEY:}
     name: ${PIX_NAME:}
     bank: ${PIX_BANK:}
+  mp:
+    public-key: ${MP_PUBLIC_KEY:}
+    access-token: ${MP_ACCESS_TOKEN:}
+    webhook-secret: ${MP_WEBHOOK_SECRET:}
